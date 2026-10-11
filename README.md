@@ -1,5 +1,7 @@
 # Itzfizz — Move with impact
 
+[Live website](https://adithya4001.github.io/itzfizz-scroll-hero/) · [GitHub repository](https://github.com/adithya4001/itzfizz-scroll-hero)
+
 A responsive scroll-driven hero for the Itzfizz Digital web development assignment. The car travels across a full-width track as the page scrolls, uncovering a lime trail and the message “Move with impact.” Reverse scrolling reverses the journey.
 
 ## Stack
